@@ -1,0 +1,267 @@
+
+
+.bulb01 {
+    
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+    
+}
+
+
+.bulb01f {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+
+
+.fan01 {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+.fan01f {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+
+
+.bulb02 {
+
+    
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+.bulb02f {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+
+
+.fan02 {
+    
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+.fan02f {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+
+
+.bulb03 {
+
+    
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+.bulb03f {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+
+
+
+.fan03 {
+ 
+    
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+.fan03f {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+.bulb04 {
+
+    
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+.bulb04f {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+
+
+
+.fan04 {
+
+     
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+.fan04f {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+.bulb0all {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+.fan0all {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    background-color: #5d5d62;
+    color: #ffffff;
+    transition:0.9s;
+    
+}
+
+
+
+.bulb1:hover {
+    background-color:black;
+    color: #f2e6c0;
+}
+body {
+    background-image:url("yes.jpg");
+    background-size:500%;
+}
+H1,h3,td{
+COLOR:#e3f1f4;
+}
